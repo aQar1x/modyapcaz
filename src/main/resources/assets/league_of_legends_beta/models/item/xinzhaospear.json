@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "league_of_legends_beta:items/xinzhaospear"
+  }
+}
